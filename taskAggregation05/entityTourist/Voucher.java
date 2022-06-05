@@ -7,7 +7,6 @@ public class Voucher{
     private String transfer;
     private String food;
     private int day;
-
     public final int NUMBER_OF_OFFERS = 8;
 
     public Voucher(){
