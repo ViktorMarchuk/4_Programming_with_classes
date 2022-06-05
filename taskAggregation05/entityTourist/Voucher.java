@@ -1,4 +1,4 @@
-package by.epam.aggregetion05.entityVoucher;
+package by.epam.aggregetion05.entityTourist;
 
 import java.util.Objects;
 
