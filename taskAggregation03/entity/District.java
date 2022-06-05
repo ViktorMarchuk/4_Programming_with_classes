@@ -32,10 +32,7 @@ public class District extends State{
         if(this == o) return true;
         if(!(o instanceof District)) return false;
         if(!super.equals(o)) return false;
-
         District district = (District)o;
-
-        return getDistrictName().equals(district.getDistrictName());
-
-    }
+     return getDistrictName().equals(district.getDistrictName());
+   }
 }
