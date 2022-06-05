@@ -3,9 +3,9 @@ package by.epam.aggregetion03.entity;
 import java.util.Objects;
 
 public class State{
-    String cityName;
-    int population;
-    double square;
+   private String cityName;
+   private int population;
+   private double square;
 
     public State(){
     }
